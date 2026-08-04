@@ -42,7 +42,7 @@ Each project is organized into its own directory and focuses on a specific topic
 CPP-Learning-Journey/
 │
 ├── 01_OOP_Basics_Car_Class/
-├── 02_Pass_By_Reference_Practice/
+├── 02_OOP_Hotel_Reservation_System
 ├── 03_...
 ├── 04_...
 └── README.md
@@ -68,25 +68,28 @@ As I continue learning, new projects will be added here.
 A simple project introducing the basics of object-oriented programming by implementing a `Car` class and interacting with its objects.
 
 ---
-
-### ⛽ 02_Pass_By_Reference_Practice
+### 🏨 02_OOP_Hotel_Reservation_System
 
 **Topics**
-- References
-- Pass by Reference
-- Object Modification
+- Classes
+- Objects
+- Composition
+- Multi-Class Project Structure
+- Header & Source File Separation
+- Menu-Driven Programming
 
 **Description**
 
-A small practice project demonstrating how passing objects by reference allows functions to modify the original object instead of creating copies.
+A simple hotel reservation system built to practice organizing a larger object-oriented project using multiple interacting classes.
 
 ---
+
 
 ## 🛠️ Technologies
 
 - **Language:** C++
 - **Compiler:** GCC / g++
-- **Editor:** Visual Studio Code
+- **Editor:** Visual Studio 
 - **Version Control:** Git & GitHub
 
 ---
